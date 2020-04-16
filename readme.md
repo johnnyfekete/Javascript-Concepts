@@ -1,5 +1,12 @@
 # JavaScript specific concepts
 
+** Disclaimer **
+
+This document can be used as a starting point, it doesn't go into details of the concepts, as the internet is already full with tutorials. It is also incomplete, and doesn't deal with basic programming concepts, but JavaScript specific ones.
+
+If you want to add to it, feel free to create a pull request!
+
+
 ## Find elements in the DOM:
 
 - determine the URL - `document.location`
