@@ -1,6 +1,6 @@
 # JavaScript specific concepts
 
-** Disclaimer **
+**Disclaimer**
 
 This document can be used as a starting point, it doesn't go into details of the concepts, as the internet is already full with tutorials. It is also incomplete, and doesn't deal with basic programming concepts, but JavaScript specific ones.
 
